@@ -14,50 +14,37 @@ h2  {
   font-size: 12px;
 }
 
-.container  {
-  border: 1px solid purple;
-}
-.guidebooks-container {
-  border: 1px solid red;
-}
-
-.destinations-container {
-  border: 1px solid red;
-}
-
 .list-img li  {
   display: inline-block;
   color: white;
   line-height: 200px;
   width: 200px;
   height: 200px;
-}
-
-#sf {
-  background-image: url('../images/london.jpg');
   background-size: cover;
 }
 
-#ny {
+.sf {
+  background-image: url('../images/san-francisco.jpg');
+}
+
+.ny {
   background-image: url("../images/new-york.jpg");
-  background-size: cover;
 }
 
-#london {
+.london {
   background-image: url("../images/london.jpg");
-  background-size: cover;
-
 }
 
-#napa {
+.napa {
   background-image: url("../images/napa.jpg");
-  background-size: cover;
-
 }
 
-#sonoma {
+.sonoma {
   background-image: url("../images/sonoma.jpg");
-  background-size: cover;
+}
+
+#sf2 {
+  background-image: url('../images/san-francisco-2.jpg');
 }
 
 .btn  {
