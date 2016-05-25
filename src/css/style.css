@@ -1,3 +1,32 @@
-h1 {
-  color: salmon;
+body  {
+    text-align: center;
+    font-family: sans-serif;
+    color: gray;
 }
+
+h1 {
+  font-size: 20px;
+
+}
+
+h2  {
+  font-size: 10px;
+}
+
+.container  {
+  border: 1px solid purple;
+}
+.guidebooks-container {
+  border: 1px solid red;
+}
+
+.destinations-container {
+  border: 1px solid red;
+}
+
+ul li  {
+  display: inline-block;
+  width: 200px;
+}
+
+
